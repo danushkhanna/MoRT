@@ -1,8 +1,8 @@
-#**Mort: Pick your Flix the New Way**
+# **Mort: Pick your Flix the New Way**
 
 Welcome to Mort, the one-stop bot that delivers the movie you're looking for. Mort is a chatbot that recommends the best movies based on your preferences. With Mort, you no longer need to go through irrelevant search results to find a good movie to watch.
 
-#**Getting Started**
+# **Getting Started**
 
 Here are the steps to get Mort up and running on your local machine:
 
@@ -14,7 +14,7 @@ Here are the steps to get Mort up and running on your local machine:
 6. To run the code, open the PyCharm terminal and run the command streamlit run FILENAME.py. Make sure you are in the file directory for the Chatbot environment and use the tab key to find the file/folder. The bot will automatically open in a new tab on your default browser.
 7. If using Anaconda as the Python interpreter does not work, you can install Python and use it as an interpreter.
 
-#**How to Run the Bot**
+# **How to Run the Bot**
 
 Once you've set up the environment and installed the required packages, you can run the bot by following these steps:
 
@@ -24,7 +24,7 @@ Once you've set up the environment and installed the required packages, you can 
 4 Run the command: streamlit run FILENAME.py (replace FILENAME with the name of the file containing the bot code).
 5. Wait for a few seconds until the bot opens in a new tab on your default browser.
 
-#**Features**
+# **Features**
 
 Mort offers several features that make it stand out from other movie recommendation websites and bots:
 
@@ -33,7 +33,7 @@ Mort offers several features that make it stand out from other movie recommendat
 3. The bot does the research for you
 4. Uses GPT from OpenAI to provide a human-like feel
 
-#**Dependencies**
+# **Dependencies**
 
 Mort relies on the following Python packages:
 
@@ -46,7 +46,7 @@ Mort relies on the following Python packages:
 
 You can install them using the pip package manager.
 
-#**Team Members**
+# **Team Members**
 
 Mort was developed by a team of four members:
 
@@ -55,19 +55,19 @@ Navansh Khandelwal
 Sanyam Jain
 Srivaishnavi Yaddanapudi
 
-#**Contact Us**
+# **Contact Us**
 
 If you have any questions or comments, please feel free to contact us at our GitHub repository or email: danush.s.khanna@gmail.com
 
-#**Contributions**
+# **Contributions**
 
 If you're interested in contributing to Mort, please feel free to fork this repository and submit a pull request. We welcome any feedback, suggestions, or bug reports.
 
-#**License**
+# **License**
 
 Mort is licensed under the MIT License.
 
-#**Conclusion**
+# **Conclusion**
 
 Mort is the perfect solution for movie lovers who struggle to find the right movie to watch. With its filtered recommendations and top results, you no longer have to spend hours searching for a good movie to watch. Follow the instructions above to get started with Mort today!
 
