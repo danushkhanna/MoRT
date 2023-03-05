@@ -88,7 +88,7 @@ If you're interested in contributing to Mort, please feel free to fork this repo
 
 # **License**
 
-Mort is licensed under the <u>MIT License</u>.
+Mort is licensed under the <ins>MIT License</ins>.
 
 # **Conclusion**
 
