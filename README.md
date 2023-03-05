@@ -50,14 +50,14 @@ You can install them using the pip package manager.
 
 Mort was developed by a team of four members:
 
-Danush Khanna (myself)
-Navansh Khandelwal
-Sanyam Jain
-Srivaishnavi Yaddanapudi
+Danush Khanna (myself) - danush.s.khanna@gmail.com
+Navansh Khandelwal - 
+Sanyam Jain - sanyam0605@gmail.com
+Srivaishnavi Yaddanapudi - 2003ysv@gmail.com
 
 # **Contact Us**
 
-If you have any questions or comments, please feel free to contact us at our GitHub repository or email: danush.s.khanna@gmail.com
+If you have any questions or comments, please feel free to contact us at our GitHub repository or email.
 
 # **Contributions**
 
