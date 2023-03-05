@@ -101,11 +101,9 @@ Whether you're looking for a new blockbuster or a hidden gem, Mort has got you c
 <img width="1439" alt="Screenshot 2023-03-04 at 2 08 02 PM" src="https://user-images.githubusercontent.com/113158564/222944104-71848908-e6f7-40fc-9559-97fc11ebd3ac.png">
 <img width="1437" alt="Screenshot 2023-03-04 at 2 08 29 PM" src="https://user-images.githubusercontent.com/113158564/222944112-cf3579f3-47c3-4629-942c-f0fcebe3dd7f.png">
 <img width="829" alt="Screenshot 2023-03-04 at 7 11 25 AM" src="https://user-images.githubusercontent.com/113158564/222944115-4456d08d-d950-4f7e-9db4-2ab99964ff5b.png">
-<img width="829" alt="potc 2 pic" src="[https://user-images.githubusercontent.com/113158564/222973791-c900d164-81a3-49b4-8dbf-745441d25727.png](https://user-images.githubusercontent.com/113158564/222973791-c900d164-81a3-49b4-8dbf-745441d25727.png)">
+![potc 2 pic](https://user-images.githubusercontent.com/113158564/222974191-f3b9de0a-eadd-4c45-bda5-d0b646147ac7.png)
 <img width="851" alt="Screenshot 2023-03-04 at 7 14 51 AM" src="https://user-images.githubusercontent.com/113158564/222944117-132a1426-4e08-41b3-90aa-a387dd3e9d6f.png">
-<img width="829" alt="blade runner 2 pic" src="[https://user-images.githubusercontent.com/113158564/222973969-8c82aa49-2cde-4f9f-af3b-6c5ff2e4294b.png](https://user-images.githubusercontent.com/113158564/222973969-8c82aa49-2cde-4f9f-af3b-6c5ff2e4294b.png)">
-
-
+![blade 2 pic](https://user-images.githubusercontent.com/113158564/222974196-7478158e-3913-4476-ace8-bfbf4cf3f6d5.png)
 
 
 
