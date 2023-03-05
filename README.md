@@ -71,5 +71,7 @@ Mort is licensed under the MIT License.
 
 Mort is the perfect solution for movie lovers who struggle to find the right movie to watch. With its filtered recommendations and top results, you no longer have to spend hours searching for a good movie to watch. Follow the instructions above to get started with Mort today!
 
+Whether you're looking for a new blockbuster or a hidden gem, Mort has got you covered. With Mort, you can now pick your flix the new way.
+
 
 
