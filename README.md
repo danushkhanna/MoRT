@@ -57,6 +57,22 @@ Mort relies on the following Python packages:
 
 You can install them using the pip package manager.
 
+# **How it works?***
+
+The code is a Python script that uses the OpenAI API to generate movie recommendations based on user input. It uses the streamlit library to create a simple chat interface that allows the user to input text and receive recommendations in response.
+
+The get_text() function takes care of handling user input. It creates a text input field using streamlit, waits for the user to input some text, and then stores the user's input in the past session state variable. It also displays the user's input in the chat interface using the message() function from the streamlit_chat library.
+
+The generate_text() function is responsible for generating movie recommendations based on a given prompt. It uses the OpenAI API to generate text based on the prompt and returns the top recommendation as a string.
+
+The handle_recommendation() function takes care of displaying the recommendations to the user. It takes the generated text as input, parses it as a JSON array, and then displays the title, synopsis, image, trailer URL, and genre for each recommended movie using streamlit's built-in functions.
+
+The get_recommendation() function is responsible for generating recommendations based on the user's input. It retrieves the user's most recent input from the past session state variable, generates recommendations based on that input using generate_text(), and then displays the recommendations using handle_recommendation().
+
+The add_buttons() function is currently not being used, but it is intended to add buttons to the chat interface that allow the user to request more recommendations based on certain prompts.
+
+The init() function sets up the chat interface and initializes the session state variables. It displays a welcome message using message() and then waits for the user to input some text using get_text(). Once the user has input some text, it generates recommendations based on that input using get_recommendation(), displays the recommendations using handle_recommendation(), and then waits for the user to input more text. The init() function also sets up the buttons using add_buttons(), although these buttons are currently not being used.
+
 # **Team Members**
 
 Mort was developed by a team of four members:
