@@ -3,7 +3,7 @@ import streamlit as st
 from streamlit_chat import message
 import json
 
-openai.api_key = "OPEN AI API KEY"
+openai.api_key = "OPENAI API KEY"
 
 def get_text():
    s = st.empty()
