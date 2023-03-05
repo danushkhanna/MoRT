@@ -11,7 +11,11 @@ Here are the steps to get Mort up and running on your local machine:
 - Create a new environment called "Chatbot" (or any other name you prefer) in Anaconda.
 - Open the .py file using PyCharm.
 - Install all the imported dependencies listed on the first few lines of the code using pip install method.
-- To run the code, open the PyCharm terminal and run the command streamlit run FILENAME.py. Make sure you are in the file directory for the Chatbot environment and use the tab key to find the file/folder. The bot will automatically open in a new tab on your default browser.
+- To run the code, open the PyCharm terminal and run the command:
+```
+ streamlit run FILENAME.py
+```
+Make sure you are in the file directory for the Chatbot environment and use the tab key to find the file/folder. The bot will automatically open in a new tab on your default browser.
 - If using Anaconda as the Python interpreter does not work, you can install Python and use it as an interpreter.
 
 **Note**:
@@ -24,7 +28,11 @@ Once you've set up the environment and installed the required packages, you can 
 - Open PyCharm and open the project containing the bot code.
 - Make sure you are in the environment you created earlier (i.e., Chatbot).
 - Open a terminal in PyCharm and navigate to the directory where you've saved the bot code.
-- Run the command: streamlit run FILENAME.py (replace FILENAME with the name of the file containing the bot code).
+- Run the command:
+```
+streamlit run FILENAME.py
+```
+(replace FILENAME with the name of the file containing the bot code).
 - Wait for a few seconds until the bot opens in a new tab on your default browser.
 
 # **Features**
