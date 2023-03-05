@@ -101,7 +101,12 @@ Whether you're looking for a new blockbuster or a hidden gem, Mort has got you c
 <img width="1439" alt="Screenshot 2023-03-04 at 2 08 02 PM" src="https://user-images.githubusercontent.com/113158564/222944104-71848908-e6f7-40fc-9559-97fc11ebd3ac.png">
 <img width="1437" alt="Screenshot 2023-03-04 at 2 08 29 PM" src="https://user-images.githubusercontent.com/113158564/222944112-cf3579f3-47c3-4629-942c-f0fcebe3dd7f.png">
 <img width="829" alt="Screenshot 2023-03-04 at 7 11 25 AM" src="https://user-images.githubusercontent.com/113158564/222944115-4456d08d-d950-4f7e-9db4-2ab99964ff5b.png">
+<img width="1470" alt="potc 2 pic" src="https://user-images.githubusercontent.com/113158564/222980056-c33e7f31-fb3c-4a22-9f95-1919c49d7208.png">
 <img width="851" alt="Screenshot 2023-03-04 at 7 14 51 AM" src="https://user-images.githubusercontent.com/113158564/222944117-132a1426-4e08-41b3-90aa-a387dd3e9d6f.png">
+<img width="1470" alt="Screenshot 2023-03-06 at 12 22 54 AM" src="https://user-images.githubusercontent.com/113158564/222980088-88d5b818-bde7-4377-acac-af7deeec0153.png">
+<img width="1470" alt="Screenshot 2023-03-06 at 12 23 07 AM" src="https://user-images.githubusercontent.com/113158564/222980091-664e0f41-4a0f-447e-ae80-f14eda661ab1.png">
+<img width="1470" alt="Screenshot 2023-03-06 at 12 23 16 AM" src="https://user-images.githubusercontent.com/113158564/222980098-191d89ee-65f6-4db3-b687-b4880aeb2c4d.png">
+
 
 
 
