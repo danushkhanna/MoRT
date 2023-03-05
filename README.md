@@ -2,6 +2,28 @@
 
 Welcome to Mort, the one-stop bot that delivers the movie you're looking for. Mort is a chatbot that recommends the best movies based on your preferences. With Mort, you no longer need to go through irrelevant search results to find a good movie to watch.
 
+# **Features**
+
+Mort offers several features that make it stand out from other movie recommendation websites and bots:
+
+- Filtered recommendations based on your preferences
+- Top results only; scans through all the relevant results on the web
+- The bot does the research for you
+- Uses GPT from OpenAI to provide a human-like feel
+
+# **Dependencies**
+
+Mort relies on the following Python packages:
+
+- streamlit
+- pandas
+- numpy
+- requests
+- json
+- openai
+
+You can install them using the pip package manager.
+
 # **How it works?**
 
 The code is a Python script that uses the OpenAI API to generate movie recommendations based on user input. It uses the streamlit library to create a simple chat interface that allows the user to input text and receive recommendations in response.
@@ -50,28 +72,6 @@ streamlit run FILENAME.py
 ```
 (replace FILENAME with the name of the file containing the bot code).
 - Wait for a few seconds until the bot opens in a new tab on your default browser.
-
-# **Features**
-
-Mort offers several features that make it stand out from other movie recommendation websites and bots:
-
-- Filtered recommendations based on your preferences
-- Top results only; scans through all the relevant results on the web
-- The bot does the research for you
-- Uses GPT from OpenAI to provide a human-like feel
-
-# **Dependencies**
-
-Mort relies on the following Python packages:
-
-- streamlit
-- pandas
-- numpy
-- requests
-- json
-- openai
-
-You can install them using the pip package manager.
 
 # **Team Members**
 
