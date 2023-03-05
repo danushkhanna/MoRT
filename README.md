@@ -6,43 +6,43 @@ Welcome to Mort, the one-stop bot that delivers the movie you're looking for. Mo
 
 Here are the steps to get Mort up and running on your local machine:
 
-1. Install PyCharm, an integrated development environment for Python.
-2. Install Anaconda, a distribution of the Python and R programming languages for scientific computing.
-3. Create a new environment called "Chatbot" (or any other name you prefer) in Anaconda.
-4. Open the .py file using PyCharm.
-5. Install all the imported dependencies listed on the first few lines of the code using pip install method.
-6. To run the code, open the PyCharm terminal and run the command streamlit run FILENAME.py. Make sure you are in the file directory for the Chatbot environment and use the tab key to find the file/folder. The bot will automatically open in a new tab on your default browser.
-7. If using Anaconda as the Python interpreter does not work, you can install Python and use it as an interpreter.
+- Install PyCharm, an integrated development environment for Python.
+- Install Anaconda, a distribution of the Python and R programming languages for scientific computing.
+- Create a new environment called "Chatbot" (or any other name you prefer) in Anaconda.
+- Open the .py file using PyCharm.
+- Install all the imported dependencies listed on the first few lines of the code using pip install method.
+- To run the code, open the PyCharm terminal and run the command streamlit run FILENAME.py. Make sure you are in the file directory for the Chatbot environment and use the tab key to find the file/folder. The bot will automatically open in a new tab on your default browser.
+- If using Anaconda as the Python interpreter does not work, you can install Python and use it as an interpreter.
 
 # **How to Run the Bot**
 
 Once you've set up the environment and installed the required packages, you can run the bot by following these steps:
 
-1. Open PyCharm and open the project containing the bot code.
-2. Make sure you are in the environment you created earlier (i.e., Chatbot).
-3. Open a terminal in PyCharm and navigate to the directory where you've saved the bot code.
-4 Run the command: streamlit run FILENAME.py (replace FILENAME with the name of the file containing the bot code).
-5. Wait for a few seconds until the bot opens in a new tab on your default browser.
+- Open PyCharm and open the project containing the bot code.
+- Make sure you are in the environment you created earlier (i.e., Chatbot).
+- Open a terminal in PyCharm and navigate to the directory where you've saved the bot code.
+- Run the command: streamlit run FILENAME.py (replace FILENAME with the name of the file containing the bot code).
+- Wait for a few seconds until the bot opens in a new tab on your default browser.
 
 # **Features**
 
 Mort offers several features that make it stand out from other movie recommendation websites and bots:
 
-1. Filtered recommendations based on your preferences
-2. Top results only; scans through all the relevant results on the web
-3. The bot does the research for you
-4. Uses GPT from OpenAI to provide a human-like feel
+- Filtered recommendations based on your preferences
+- Top results only; scans through all the relevant results on the web
+- The bot does the research for you
+- Uses GPT from OpenAI to provide a human-like feel
 
 # **Dependencies**
 
 Mort relies on the following Python packages:
 
-1. streamlit
-2. pandas
-3. numpy
-4. requests
-5. json
-6. openai
+- streamlit
+- pandas
+- numpy
+- requests
+- json
+- openai
 
 You can install them using the pip package manager.
 
