@@ -1,4 +1,4 @@
-# **Mort: Pick your Flix the New Way**
+# **Mort - The Movie Recommender Chatbot: Pick Your Flix the New Way**
 
 Welcome to Mort, the one-stop bot that delivers the movie you're looking for. Mort is a chatbot that recommends the best movies based on your preferences. With Mort, you no longer need to go through irrelevant search results to find a good movie to watch.
 
