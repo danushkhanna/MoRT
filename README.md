@@ -1,35 +1,49 @@
-# Mort
-Pick your flix the new way
+*Mort - Pick your flix the new way*
+Mort is a one-stop-shop bot that delivers the perfect movie recommendation for you. Instead of spending hours sifting through opinions and options, Mort will do the research and find the best movie recommendation for you based on your preferences.
 
-What happens when you ask the internet for movie recommendations?
-Hundreds of opinions options, none that match what you want. But don’t worry, we’ve got you covered.
+How it works
+Using Mort is simple. All you have to do is type in what you feel like watching, and Mort will do the rest. If you don't like what you see, just say so, and Mort will refine the results to match your preferences. Mort uses natural language processing and machine learning to provide you with a human-like experience.
 
-Mort, the one- stop bot that delivers that one flix you’re looking for.
+How we've built our bot
+Our entire bot is coded in Python, using the Streamlit framework. We've integrated the GPT model from OpenAI to give our bot a more human-like feel. Mort relies on JSON API calls to import synopsis and stats from websites like IMDB.
 
-How It Works:
-Just type in what you feel like watching,
-Mort will do the rest!
-Don’t like what you see? Just say so!
+We developed Mort as a team project, and our team members are:
 
-How We’ve Built Our Bot:
-• The entire bot is coded in Python, using the Streamlit framework.
-• To give our bot a proper human-like feel, we’ve integrated the GPT from openai.
-• It relies on JSON API call to import synopsis and stats from websites like IMDB, etc.
+Danush Khanna
+Navansh Khandelwal
+Sanyam Jain
+Srivaishnavi Yaddanapudi
+Installation
+To use Mort, you'll need to follow these steps:
 
-How is Mort better?
+Install PyCharm.
+Install Anaconda (not Python).
+Create a new environment called Chatbot (or any name you prefer) in Anaconda.
+Open the .py file using PyCharm.
+Install all the imported packages on the first few lines of the code using the pip install method.
+To run the code, open the PyCharm terminal and run the code: streamlit run FILENAME.py (replace FILENAME with the name you gave to the environment, making sure you are in that file directory before you run. Use the tab key to find the file/folder.)
+The bot will run by opening a new tab on your default browser.
+If using Anaconda does not work, you can install Python and use it as an interpreter.
 
-Everything else:
-× No personal recommendations.
-× Need to go through a lot of
-irrelevant results as well
-× Need to rely on multiple sites to get a proper recommendation
+Dependencies
+Mort relies on the following Python packages:
 
-While Mort:
-Filtered recommendation based on what your needs
-Top results only; scans through all the relevant results in the web
-The bot does the research
+streamlit
+pandas
+numpy
+requests
+json
+openai
+You can install them using the pip package manager.
 
-Thank you
+Contact Us
+If you have any questions or comments, please feel free to contact us at our GitHub repository or email.
 
-Check this out to know more about Mort:
-[MORT PPT.pdf](https://github.com/danushkhanna/Mort/files/10890824/MORT.PPT.pdf)
+License
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
+Conclusion
+Thank you for considering Mort as your go-to movie recommendation bot. We hope that you enjoy using it as much as we enjoyed building it.
+
+
+
