@@ -73,5 +73,11 @@ Mort is the perfect solution for movie lovers who struggle to find the right mov
 
 Whether you're looking for a new blockbuster or a hidden gem, Mort has got you covered. With Mort, you can now pick your flix the new way.
 
+# **Screenshots**
 
+<img width="1439" alt="Screenshot 2023-03-04 at 2 08 02 PM" src="https://user-images.githubusercontent.com/113158564/222944104-71848908-e6f7-40fc-9559-97fc11ebd3ac.png">
+<img width="1437" alt="Screenshot 2023-03-04 at 2 08 29 PM" src="https://user-images.githubusercontent.com/113158564/222944112-cf3579f3-47c3-4629-942c-f0fcebe3dd7f.png">
+<img width="968" alt="Screenshot 2023-03-04 at 7 06 16 AM" src="https://user-images.githubusercontent.com/113158564/222944114-175e300c-40c1-47cf-a675-38d1de58132c.png">
+<img width="829" alt="Screenshot 2023-03-04 at 7 11 25 AM" src="https://user-images.githubusercontent.com/113158564/222944115-4456d08d-d950-4f7e-9db4-2ab99964ff5b.png">
+<img width="851" alt="Screenshot 2023-03-04 at 7 14 51 AM" src="https://user-images.githubusercontent.com/113158564/222944117-132a1426-4e08-41b3-90aa-a387dd3e9d6f.png">
 
