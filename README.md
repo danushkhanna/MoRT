@@ -1,10 +1,10 @@
-# **Mort - The Movie Recommender Chatbot: Pick Your Flix the New Way**
+# **MORT - The Movie Recommender Chatbot: Pick Your Flix the New Way**
 
-Welcome to Mort, the one-stop bot that delivers the movie you're looking for. Mort is a chatbot that recommends the best movies based on your preferences. With Mort, you no longer need to go through irrelevant search results to find a good movie to watch.
+Welcome to MORT, the one-stop bot that delivers the movie you're looking for. Mort is a chatbot that recommends the best movies based on your preferences. With MORT, you no longer need to go through irrelevant search results to find a good movie to watch.
 
 # **Features**
 
-Mort offers several features that make it stand out from other movie recommendation websites and bots:
+MORT offers several features that make it stand out from other movie recommendation websites and bots:
 
 - Filtered recommendations based on your preferences
 - Top results only; scans through all the relevant results on the web
@@ -13,7 +13,7 @@ Mort offers several features that make it stand out from other movie recommendat
 
 # **Dependencies**
 
-Mort relies on the following Python packages:
+MORT relies on the following Python packages:
 
 - streamlit
 - pandas
@@ -71,7 +71,7 @@ streamlit run FILENAME.py
 
 # **Team Members**
 
-Mort was developed by a team of four members:
+MORT was developed by a team of four members:
 
 - Danush Khanna (myself) danush.s.khanna@gmail.com
 - Navansh Khandelwal khandelwalnavansh1@gmail.com
@@ -88,11 +88,11 @@ If you're interested in contributing to Mort, please feel free to fork this repo
 
 # **License**
 
-Mort is licensed under the <ins>MIT License</ins>.
+MORT is licensed under the <ins>MIT License</ins>.
 
 # **Conclusion**
 
-Mort is the perfect solution for movie lovers who struggle to find the right movie to watch. With its filtered recommendations and top results, you no longer have to spend hours searching for a good movie to watch. Follow the instructions above to get started with Mort today!
+MORT is the perfect solution for movie lovers who struggle to find the right movie to watch. With its filtered recommendations and top results, you no longer have to spend hours searching for a good movie to watch. Follow the instructions above to get started with Mort today!
 
 Whether you're looking for a new blockbuster or a hidden gem, Mort has got you covered. With Mort, you can now pick your flix the new way.
 
