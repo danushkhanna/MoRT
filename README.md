@@ -42,7 +42,7 @@ The ```init()``` function sets up the chat interface and initializes the session
 
 # **Getting Started**
 
-Here are the steps to get Mort up and running on your local machine:
+Here are the steps to get MORT up and running on your local machine:
 
 - Install PyCharm, an integrated development environment for Python.
 - Install Anaconda, a distribution of the Python and R programming languages for scientific computing.
@@ -84,7 +84,7 @@ If you have any questions or comments, please feel free to contact us at our Git
 
 # **Contributions**
 
-If you're interested in contributing to Mort, please feel free to fork this repository and submit a pull request. We welcome any feedback, suggestions, or bug reports.
+If you're interested in contributing to MORT, please feel free to fork this repository and submit a pull request. We welcome any feedback, suggestions, or bug reports.
 
 # **License**
 
