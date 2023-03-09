@@ -76,7 +76,7 @@ MORT was developed by a team of four members:
 - Danush Khanna (myself) danush.s.khanna@gmail.com
 - Navansh Khandelwal khandelwalnavansh1@gmail.com
 - Sanyam Jain sanyam0605@gmail.com
-- Srivaishnavi Yaddanapudi 2003ysv@gmail.com
+- Srivaishnavi Yaddanapudi y.svaish2003@gmail.com
 
 # **Contact Us**
 
