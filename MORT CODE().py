@@ -1,9 +1,22 @@
-import openai
+import langchain
+from langchain import models
+from llama2 import LLama2
 import streamlit as st
 from streamlit_chat import message
 import json
+from langchain import Refine
 
-openai.api_key = "OPENAI API KEY"
+# Initialize LangChain APIs
+# langchain_api = langchain.API(models.LangChainModel)
+# llama2_api = LLama2('YOUR_LLAMA2_API_KEY')
+
+# Set up the LangChain client with an API key
+client = langchain.Client(api_key="YOUR_API_KEY")
+
+# Define the LLaMA 2 model architecture
+model = langchain.models.LLaMA2(num_layers=12, hidden_size=768, num_heads=12)
+model.load_pretrained_weights("llama-2")
+refiner = Refine(client, model)
 
 def get_text():
     ''' 
@@ -43,15 +56,29 @@ def generate_text(prompt):
     str
         Top movie recommendation.
     '''
-    completions = openai.Completion.create(
-        engine="text-davinci-003",
-        prompt='Give the title, synopsis, currently active image URL, trailer URL, genre in JSON array of this format with these keys {"title","synopsis","image","trailer","genre"} of a few movie best matching the following description and make sure to sanitize it properly to valid json and always give a json array: ' + prompt,
-        max_tokens=1024,
-        n=1,
-        stop=None,
-        temperature=0.7,
-    )
-    return completions.choices[0].text
+    # completions = langchain_api.completions(
+    #     prompt=prompt,
+    #     num_completions=1,
+    #     max_length=200,
+    #     freq_threshold=0.01,
+    #     diversity_threshold=0.01,
+    #     ignore_stopwords=True,
+    #     tokenizer='wordpiece',
+    #     temperature=0.7,
+    #     topk=5,
+    #     k=5,
+    #     seed=42,
+    # )
+	
+    # generated_text = completions['results'][0]['output']
+    # fine_tuned_text = llama2_api.refine(generated_text, num_beams=5, beam_search_steps=5)
+    
+    tokenizer = model.tokenizer
+    encoded_prompt = tokenizer.encode(prompt, return_tensors="pt")
+    generated_response = model.generate(encoded_prompt, max_length=50, temperature=0.9, diversity=0.5)
+    fine_tuned_text = refiner.refine(generated_response, num_iterations=3)
+
+    return fine_tuned_text
 
 def handle_recommendation(response):
     '''
@@ -124,4 +151,3 @@ def init():
     add_buttons()
 
 init()
-
